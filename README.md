@@ -38,4 +38,3 @@ O layout se adapta automaticamente a diferentes telas:
 ## 👨‍💻 Autor
 
 Uberdan Almeida.
-
